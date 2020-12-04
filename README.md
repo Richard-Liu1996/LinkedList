@@ -1,5 +1,5 @@
 # LinkedList
-LinkedList first trying
+
 package com.company;
 
 class ListNode {
